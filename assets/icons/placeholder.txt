@@ -1,0 +1,2 @@
+# This is a placeholder file for the assets/icons directory
+# Add your icon assets here

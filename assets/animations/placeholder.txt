@@ -1,0 +1,2 @@
+# This is a placeholder file for the assets/animations directory
+# Add your animation assets here
